@@ -2,3 +2,5 @@
 */*.tar
 practical1/sum
 practical2/p2
+practical3/pan
+.gitignore
